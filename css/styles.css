@@ -1,0 +1,47 @@
+body {
+  font-family: 'Josefin Sans', sans-serif;
+  background-image: url('../images/bg-pattern-desktop.svg');
+}
+
+.photo{
+  height: 700px;
+}
+
+.first-half{
+  margin: 4% 0;
+  padding-right: 5%;
+}
+
+.heading{
+  margin: 25% 0 0 0;
+  letter-spacing: 0.4rem;
+}
+
+.first{
+  color: #F1BFBF;
+  font-size: 4rem;
+}
+
+.second{
+  font-size: 4rem;
+}
+
+.btn{
+  margin-left: 2%;
+}
+
+.text{
+  color:#bab1b1;
+  margin-top: 5%;
+  padding-right: 4%;
+}
+
+input, button{
+  margin: 5% 0 0 0;
+}
+
+.attribution{
+  margin-top: 6%;
+  text-align: center;
+  letter-spacing: 0.2rem;
+}
